@@ -1,0 +1,19 @@
+site_name: Codehornets Inc.
+site_url: https://codehornets.com/
+repo_url: https://github.com/angantakpe/mlops/
+nav:
+  - Home: index.md
+  - codehornets:
+    - data: core/data.md
+    - models: core/models.md
+    - train: core/train.md
+    - tune: core/tune.md
+    - evaluate: core/evaluate.md
+    - predict: core/predict.md
+    - serve: core/serve.md
+    - utils: core/utils.md
+theme: readthedocs
+plugins:
+  - mkdocstrings
+watch:
+  - .  # reload docs for any file changes
