@@ -78,7 +78,7 @@ We'll start by setting up our cluster with the environment and compute configura
   - Workspace name: `codehornets`
   - Project: `mlops`
   - Cluster environment name: `codehornets-cluster-env`
-  # Toggle `Select from saved configurations`
+  - Toggle `Select from saved configurations`
   - Compute config: `codehornets-cluster-compute`
   ```
 
