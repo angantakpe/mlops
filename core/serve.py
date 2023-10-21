@@ -13,7 +13,7 @@ from core.config import MLFLOW_TRACKING_URI, mlflow
 
 # Define application
 app = FastAPI(
-    title="Made With ML",
+    title="Codehornets MLOps",
     description="Classify machine learning projects.",
     version="0.1",
 )

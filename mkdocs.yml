@@ -3,7 +3,7 @@ site_url: https://codehornets.com/
 repo_url: https://github.com/angantakpe/mlops/
 nav:
   - Home: index.md
-  - codehornets:
+  - core:
     - data: core/data.md
     - models: core/models.md
     - train: core/train.md

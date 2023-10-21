@@ -37,7 +37,7 @@ echo $RUN_ID > $RUN_ID_FILE  # used for serving later
 
 # Evaluate
 export RESULTS_FILE=results/evaluation_results.json
-export HOLDOUT_LOC="https://raw.githubusercontent.com/GokuMohandas/Made-With-ML/main/datasets/holdout.csv"
+export HOLDOUT_LOC="datasets/holdout.csv"
 python core/evaluate.py \
     --run-id $RUN_ID \
     --dataset-loc $HOLDOUT_LOC \

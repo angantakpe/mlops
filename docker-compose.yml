@@ -1,0 +1,10 @@
+version: '3.10'
+
+services:
+  mlops-notebook:
+    build: .
+    ports:
+      - "8888:8888"
+    shm_size: '2.36gb'
+    volumes:
+      - ./notebooks:/app/notebooks
