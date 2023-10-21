@@ -2,18 +2,7 @@
 <h1><img width="30" src="https://madewithml.com/static/images/rounded_logo.png">&nbsp;<a href="https://codehornets.com/">MLOps | Codehornets Inc.</a></h1>
 Design · Develop · Deploy · Iterate
 <br>
-Join 40K+ developers in learning how to responsibly deliver value with ML.
-    <br>
 </div>
-
-<br>
-
-<div align="center">
-    <br>
-    🔥&nbsp; Among the <a href="https://github.com/angantakpe/" target="_blank">top ML repositories</a> on GitHub
-</div>
-
-<br>
 <hr>
 
 ## Lessons
